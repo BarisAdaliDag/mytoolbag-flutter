@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952040909409",
+    "project_id": "mytoolbag-6d984",
+    "storage_bucket": "mytoolbag-6d984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952040909409:android:0ec85ed7a76b671784d820",
+        "android_client_info": {
+          "package_name": "com.example.mytoolbag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952040909409-51qq28gsvb80g91f4kb44ifi67kpaumb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZeNUxm535Le4Fjy3lPVsxq7vtzVo30Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952040909409-51qq28gsvb80g91f4kb44ifi67kpaumb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
